@@ -1,0 +1,12 @@
+server:
+  port: 2223
+  
+#Finra Spring App
+spring:
+  application:
+    name: file-upload
+  jpa:
+    show-sql: true
+
+  
+    
